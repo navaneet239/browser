@@ -1,2 +1,2 @@
 # A Mini browser in your Browser!!
-live: 
+Check it live: [Click here!](https://navaneet239.github.io/browser/)
